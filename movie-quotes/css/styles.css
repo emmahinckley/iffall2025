@@ -1,0 +1,37 @@
+.person1 {
+    font-size: 15px;
+    color:green;
+    margin-bottom: 0.2em;
+}
+
+.person2 {
+    font-size: 15px;
+    color: blue;
+    margin-bottom: 0.2em;
+}
+
+.person3 {
+    font-size: 15px;
+    color:orange;
+    margin-bottom: 0.2em;
+}
+
+.person4 {
+    font-size: 15px;
+    color: indigo;
+    margin-bottom: 0.2em;
+}
+
+.person5 {
+    font-size: 15px;
+    color: red;
+    margin-bottom: 0.2em;
+}
+  p {
+    line-height: 1;
+    font-family: Arial, sans-serif;
+    margin-top: 0.2em;
+  }
+  h2 {
+    font-family: Verdana, sans-serif;
+  }
