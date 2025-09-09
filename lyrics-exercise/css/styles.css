@@ -1,0 +1,27 @@
+body {
+    background-color: #013220;
+    color: burlywood;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 5px;
+}
+
+.albumcover {
+    width: 200;
+    height: auto;
+    margin: 20px 0;
+}
+
+.lyrics {
+    margin-top: 20px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
