@@ -96,3 +96,21 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+.project-image {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border: 1px solid white;
+}
+
+.project-image {
+  transition: 0.3s;
+}
+
+.project-image:hover {
+  transform: scale(1.03);
+  opacity: 0.9;
+  cursor: pointer;
+}
